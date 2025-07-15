@@ -24,8 +24,7 @@
 핵심 비즈니스 흐름에 대한 시퀀스 다이어그램입니다.
 
 **주문/결제 시퀀스:**
-![주문/결제 시퀀스 다이어그램 이미지](docs/sequence-diagrams/주문_결제_시퀀스다이어그램.png)
-**[다른 시퀀스 다이어그램이 있다면 여기에 추가]**
-* 선착순 쿠폰 발급 시퀀스: ![선착순 쿠폰 발급 시퀀스](docs/sequence-diagrams/선착순쿠폰_발급_시퀀스다이어그램.png)
-* 잔액 충전 시퀀스: ![잔액 충전 시퀀스](docs/sequence-diagrams/잔액_충전_시퀀스다이어그램.png)
-* 상품 조회 시퀀스: ![상품 조회 시퀀스](docs/sequence-diagrams/상품_조회_시퀀스다이어그램.png)
+![주문/결제 시퀀스 다이어그램 이미지](https://github.com/eodnjsdl-3254/server-java/docs/sequence-diagrams/주문_결제_시퀀스다이어그램.png)
+* 선착순 쿠폰 발급 시퀀스: ![선착순 쿠폰 발급 시퀀스](https://github.com/eodnjsdl-3254/server-java/docs/sequence-diagrams/선착순쿠폰_발급_시퀀스다이어그램.png)
+* 잔액 충전 시퀀스: ![잔액 충전 시퀀스](https://github.com/eodnjsdl-3254/server-java/docs/sequence-diagrams/잔액_충전_시퀀스다이어그램.png)
+* 상품 조회 시퀀스: ![상품 조회 시퀀스](https://github.com/eodnjsdl-3254/server-java/docs/sequence-diagrams/상품_조회_시퀀스다이어그램.png)
