@@ -14,10 +14,7 @@
 ## 시스템 아키텍처 및 설계
 
 ### ERD (Entity-Relationship Diagram)
-
-[ERD 이미지에 대한 링크 또는 설명을 여기에 추가할 수 있습니다. 예를 들어:
 ![ERD 다이어그램](docs/erd/e-commerce-erd.png)
-또는, ERD가 별도 Markdown 파일에 있다면: [전체 ERD 보기](docs/erd/e-commerce-erd.md)]
 
 ### 시퀀스 다이어그램
 
