@@ -38,6 +38,9 @@ dependencies {
     // SpringDoc OpenAPI UI (Swagger UI)
     implementation("org.springdoc:springdoc-openapi-starter-webmvc-ui:2.5.0")
 
+	// Security 
+	implementation("org.springframework.boot:spring-boot-starter-security")
+
     // Lombok (어노테이션 인식을 위해 annotationProcessor 설정 필수)
     compileOnly("org.projectlombok:lombok")
     annotationProcessor("org.projectlombok:lombok")

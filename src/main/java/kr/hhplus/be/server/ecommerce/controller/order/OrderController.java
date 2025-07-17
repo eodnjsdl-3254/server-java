@@ -29,12 +29,8 @@ import lombok.RequiredArgsConstructor;
 public class OrderController {
 
     private final PaymentServiceImpl paymentServiceImpl;
-
     private final IOrderService orderService;
 
-    OrderController(PaymentServiceImpl paymentServiceImpl) {
-        this.paymentServiceImpl = paymentServiceImpl;
-    }
 
     @Operation(summary = "주문 생성", description = "사용자 ID와 주문 상품 목록을 받아 주문을 생성합니다. (결제 대기 상태)")
     @PostMapping
