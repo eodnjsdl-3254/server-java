@@ -13,6 +13,7 @@
 
 ## 시스템 아키텍처 및 설계
 
+
 ### ERD (Entity-Relationship Diagram)
 ![ERD 다이어그램](docs/erd/e-commerce-erd.png)
 
